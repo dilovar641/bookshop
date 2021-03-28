@@ -1,0 +1,4 @@
+let widthSlide=714;
+	$("#banner-btn .btn-left").click(function(){
+		$("#banner-btn .slides").css({"left";("#banner-btn .slides").left() -100});
+	});
